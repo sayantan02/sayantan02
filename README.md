@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://fb.com/sayantan.biswas.524934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayantan.biswas.524934" height="30" width="40" /></a>
 <a href="https://instagram.com/mr._aerodynamics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr._aerodynamics" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codelek technology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codelek technology" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codelektechnology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codelek technology" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
