@@ -14,7 +14,7 @@
 
 - 📌 I'm the Founder of [CodeLek Technology](https://www.codelek.com/)
 
-- 👨‍💻 All of my projects are available at [https://www.codelek.com/about-us/](https://www.codelek.com/sayantan/)
+- 👨‍💻 All of my projects are available at [https://www.codelek.com/sayantan](https://www.codelek.com/sayantan/)
 
 - 🎬 I upload videos on [https://www.youtube.com/@codelektechnology](https://www.youtube.com/@codelektechnology)
 
