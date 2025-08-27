@@ -1,4 +1,3 @@
-![logo](https://raw.githubusercontent.com/sayantan02/sayantan02/main/Blue%20and%20White%20Modern%20Tech%20Web%20Developer%20Twitter%20Header.png)
 <h1 align="center">Hi 👋, I'm Sayantan Biswas</h1>
 <h3 align="center">A focused Web, Web3 and Android Developer from India.</h3>
 
